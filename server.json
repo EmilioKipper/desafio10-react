@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://img.itdg.com.br/tdg/images/blog/uploads/2018/12/Comida-chinesa.jpg?w=1200",
+      "name": "simbora",
+      "price": "19.90",
+      "description": "aaaa",
+      "available": true,
+      "id": 4
     }
   ]
 }
